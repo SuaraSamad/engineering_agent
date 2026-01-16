@@ -288,14 +288,6 @@ uv pip install gradio
 - [CrewAI Discord](https://discord.com/invite/X4JWnZnxPb)
 - [Gradio Documentation](https://www.gradio.app/docs/)
 
-## 📝 License
-
-[Add your license here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
 ## 🙏 Acknowledgments
 
 Built with [CrewAI](https://crewai.com) - A framework for orchestrating role-playing, autonomous AI agents.
